@@ -1,1 +1,0 @@
-# microcms-testing
